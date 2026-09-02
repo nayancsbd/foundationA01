@@ -65,7 +65,7 @@ const getCngFare = (distance, isNight = false, waitingMinutes = 0) => {
 };
 
 
-
+//Question No: 05
 const getChaseVerdict = (target, scored, ballsLeft) => {
   const runsNeeded = target - scored;
 
