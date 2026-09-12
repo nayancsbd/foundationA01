@@ -89,32 +89,8 @@ const getChaseVerdict = (target, scored, ballsLeft) => {
   }
 
   return  `Need ${runsNeeded} runs in ${ballsLeft} balls | ${verdict}`;
-  console.log(object);
+
 
 
   };
 
-
-
-  //hello this i s check 1
-  //hello this i s check 1
-  // /hello this i s check 1
-  // /hello this i s check 1
-
-
-
-
-
-
-
-  //hello this i s check 2
-  //hello this i s check 2
-  // /hello this i s check 2
-  // /hello this i s check 2
-  //hello this i s check 2
-  //hello this i s check 2
-  // /hello this i s check 2
-  // /hello this i s check 2//hello this i s check 2
-  //hello this i s check 2
-  // /hello this i s check 2
-  // /hello this i s check 2
